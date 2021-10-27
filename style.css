@@ -4,6 +4,13 @@
   font-weight: 400 !important;
 }
 
+.logo {
+  width: 6rem;
+  position: absolute;
+  left: 2.1rem;
+  top: -6.7rem;
+}
+
 /*Background*/
 .gxDMNu {
   background: #1e1e2e !important;
